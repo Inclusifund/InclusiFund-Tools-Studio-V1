@@ -1,0 +1,13 @@
+/* theme.css */
+:root {
+    --brand-tropical-teal: #6BB6B6;
+    --brand-dark-teal: #005461;
+    --brand-teal: #008080;
+    --brand-shadow-grey: #1F2232;
+    --brand-surface: #2A2F42;
+    --color-border: #3A3F52;
+    --color-text-primary: #FFFFFF;
+    --color-text-secondary: #9CA3AF;
+    --color-bg-primary: #1F2232;
+    --shadow-lg: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+}
